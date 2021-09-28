@@ -1,6 +1,5 @@
 def addCheck(x, y, z):
     if(x + y == z):
-        return "true"
+        return True
     else:
-        return "false"
-print(addCheck(x, y, z))
+        return False
