@@ -3,3 +3,4 @@ def addCheck(x, y, z):
         return "true"
     else:
         return "false"
+print(addCheck(x, y, z))
